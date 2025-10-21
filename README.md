@@ -1,4 +1,4 @@
-#NOTE: Github profile still under progress!
+# NOTE: Github profile still under progress!
 
 # 👋 Hey, I'm Safdar
 
