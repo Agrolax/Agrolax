@@ -1,8 +1,3 @@
-# Hey there, I'm Safdar! 👋
-
-I'm a **Computer Science student and Freelance Product Designer / Front-end Developer** passionate about bridging the gap between clean code and intuitive user experiences. I love building highly functional, visually polished applications from the ground up.
-
----
 
 ### 🚀 Featured Projects
 
@@ -58,8 +53,6 @@ COMMENTING OUT THE PROJECTS UNTIL IMAGES ARE READY
 </table>
 
 -->
-💡 Alternative Option
-If you still want to list your projects right now without breaking the layout or showing broken image links, you can just temporarily remove the <img src="..." /> lines from the table code entirely. That way, you get clean, text-and-badge-only project layout cards until your custom graphics are ready to drop in!
 ---
 
 ### ⚙️ Tools & Tech Stack
