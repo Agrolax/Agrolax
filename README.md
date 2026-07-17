@@ -5,6 +5,39 @@
 *   **[Habit Hero](https://github.com/Schleed/habit-hero)** – A gamified desktop task-management application designed to turn daily habits into an engaging experience, built using **React, Tailwind CSS, and Electron**.
 *   **[ConnectFourAI](https://github.com/Agrolax/ConnectFourAI)** – An artificial intelligence-driven implementation of the classic Connect Four game, exploring algorithmic decision-making and logic-based game states.
 
+<!--
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Agrolax/rellia-landing-page"></a>
+      <h3><a href="https://github.com/Agrolax/rellia-landing-page">🟢 Rellia Health Website Expansion</a></h3>
+      <p>A comprehensive tech-stack revamp and platform expansion[cite: 1]. Independently migrated legacy infrastructure to a modern build with custom interactive components[cite: 1].</p>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css" />
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Schleed/habit-hero"></a>
+      <h3><a href="https://github.com/Schleed/habit-hero">⚔️ Habit Hero</a></h3>
+      <p>A gamified desktop task-management application designed to turn daily productivity habits into an engaging, interactive game environment.</p>
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <br />
+      <a href="https://github.com/Agrolax/ConnectFourAI"></a>
+      <h3><a href="https://github.com/Agrolax/ConnectFourAI">🤖 ConnectFourAI</a></h3>
+      <p>An intelligent game engine implementation exploring algorithmic decision-making, game state tracking, and strategic logic optimization.</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
+</table>
+-->
 <!-- 
 COMMENTING OUT THE PROJECTS UNTIL IMAGES ARE READY 
 
