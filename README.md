@@ -6,31 +6,34 @@ I'm a **Computer Science student and Freelance Product Designer / Front-end Deve
 
 ### 🚀 Featured Projects
 
+*   **[Rellia Health](https://github.com/Agrolax/rellia-landing-page)** – A comprehensive tech-stack revamp and platform expansion. Migrated a legacy infrastructure to a modern build utilizing **React, TypeScript, and Tailwind CSS**, and integrated **Sanity CMS** with a custom admin dashboard for dynamic content management.
+*   **[Habit Hero](https://github.com/Schleed/habit-hero)** – A gamified desktop task-management application designed to turn daily habits into an engaging experience, built using **React, Tailwind CSS, and Electron**.
+*   **[ConnectFourAI](https://github.com/Agrolax/ConnectFourAI)** – An artificial intelligence-driven implementation of the classic Connect Four game, exploring algorithmic decision-making and logic-based game states.
+
+<!-- 
+COMMENTING OUT THE PROJECTS UNTIL IMAGES ARE READY 
+
 <table border="0">
   <tr>
-    <!-- CARD 1: RELLIA HEALTH -->
     <td width="50%" valign="top">
       <a href="https://github.com/Agrolax/rellia-landing-page">
-        <img src="https://via.placeholder.com/400x200?text=Rellia+Health+Banner" width="100%" alt="Rellia Health" style="border-radius: 8px;"/>
+        <img src="./assets/rellia-banner.png" width="100%" alt="Rellia Health" style="border-radius: 8px;"/>
       </a>
       <br />
       <h3><a href="https://github.com/Agrolax/rellia-landing-page">🟢 Rellia Health Website Expansion</a></h3>
       <p>A comprehensive tech-stack revamp and expansion. Independently migrated legacy infrastructure to a modern build with custom interactive components.</p>
-      <!-- Badges inside the card -->
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css" />
     </td>
     
-    <!-- CARD 2: HABIT HERO -->
     <td width="50%" valign="top">
       <a href="https://github.com/Schleed/habit-hero">
-        <img src="https://via.placeholder.com/400x200?text=Habit+Hero+Banner" width="100%" alt="Habit Hero" style="border-radius: 8px;"/>
+        <img src="./assets/habit-hero-banner.png" width="100%" alt="Habit Hero" style="border-radius: 8px;"/>
       </a>
       <br />
       <h3><a href="https://github.com/Schleed/habit-hero">⚔️ Habit Hero</a></h3>
       <p>A gamified desktop task-management application built to turn daily productivity habits into an engaging, interactive game environment.</p>
-      <!-- Badges inside the card -->
       <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css" />
@@ -38,25 +41,25 @@ I'm a **Computer Science student and Freelance Product Designer / Front-end Deve
   </tr>
   
   <tr>
-    <!-- CARD 3: CONNECT FOUR AI -->
     <td width="50%" valign="top">
       <br />
       <a href="https://github.com/Agrolax/ConnectFourAI">
-        <img src="https://via.placeholder.com/400x200?text=Connect+Four+AI+Banner" width="100%" alt="Connect Four AI" style="border-radius: 8px;"/>
+        <img src="./assets/connectfour-banner.png" width="100%" alt="Connect Four AI" style="border-radius: 8px;"/>
       </a>
       <br />
       <h3><a href="https://github.com/Agrolax/ConnectFourAI">🤖 ConnectFourAI</a></h3>
       <p>An intelligent game engine implementation exploring algorithmic decision-making, game state tracking, and strategic logic optimization.</p>
-      <!-- Badges inside the card -->
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
     </td>
     
-    <!-- CARD 4: EMPTY OR FUTURE PLACEHOLDER (keeps grid clean) -->
     <td width="50%" valign="top">
-      <!-- Leave this empty or use it to promote your upcoming portfolio -->
     </td>
   </tr>
 </table>
+
+-->
+💡 Alternative Option
+If you still want to list your projects right now without breaking the layout or showing broken image links, you can just temporarily remove the <img src="..." /> lines from the table code entirely. That way, you get clean, text-and-badge-only project layout cards until your custom graphics are ready to drop in!
 ---
 
 ### ⚙️ Tools & Tech Stack
