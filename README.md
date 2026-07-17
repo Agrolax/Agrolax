@@ -6,25 +6,72 @@ I'm a **Computer Science student and Freelance Product Designer / Front-end Deve
 
 ### 🚀 Featured Projects
 
-*   **[Rellia Health](https://github.com/Agrolax/rellia-landing-page)** – A comprehensive tech-stack revamp and platform expansion. Migrated a legacy infrastructure to a modern build utilizing **React, TypeScript, and Tailwind CSS**, and integrated **Sanity CMS** with a custom admin dashboard for dynamic content management.
-*   **[Habit Hero](https://github.com/Schleed/habit-hero)** – A gamified desktop task-management application designed to turn daily habits into an engaging experience, built using **React, Tailwind CSS, and Electron**.
-*   **[ConnectFourAI](https://github.com/Agrolax/ConnectFourAI)** – An artificial intelligence-driven implementation of the classic Connect Four game, exploring algorithmic decision-making and logic-based game states.
-
+<table border="0">
+  <tr>
+    <!-- CARD 1: RELLIA HEALTH -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/Agrolax/rellia-landing-page">
+        <img src="https://via.placeholder.com/400x200?text=Rellia+Health+Banner" width="100%" alt="Rellia Health" style="border-radius: 8px;"/>
+      </a>
+      <br />
+      <h3><a href="https://github.com/Agrolax/rellia-landing-page">🟢 Rellia Health Website Expansion</a></h3>
+      <p>A comprehensive tech-stack revamp and expansion. Independently migrated legacy infrastructure to a modern build with custom interactive components.</p>
+      <!-- Badges inside the card -->
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css" />
+    </td>
+    
+    <!-- CARD 2: HABIT HERO -->
+    <td width="50%" valign="top">
+      <a href="https://github.com/Schleed/habit-hero">
+        <img src="https://via.placeholder.com/400x200?text=Habit+Hero+Banner" width="100%" alt="Habit Hero" style="border-radius: 8px;"/>
+      </a>
+      <br />
+      <h3><a href="https://github.com/Schleed/habit-hero">⚔️ Habit Hero</a></h3>
+      <p>A gamified desktop task-management application built to turn daily productivity habits into an engaging, interactive game environment.</p>
+      <!-- Badges inside the card -->
+      <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css" />
+    </td>
+  </tr>
+  
+  <tr>
+    <!-- CARD 3: CONNECT FOUR AI -->
+    <td width="50%" valign="top">
+      <br />
+      <a href="https://github.com/Agrolax/ConnectFourAI">
+        <img src="https://via.placeholder.com/400x200?text=Connect+Four+AI+Banner" width="100%" alt="Connect Four AI" style="border-radius: 8px;"/>
+      </a>
+      <br />
+      <h3><a href="https://github.com/Agrolax/ConnectFourAI">🤖 ConnectFourAI</a></h3>
+      <p>An intelligent game engine implementation exploring algorithmic decision-making, game state tracking, and strategic logic optimization.</p>
+      <!-- Badges inside the card -->
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python" />
+    </td>
+    
+    <!-- CARD 4: EMPTY OR FUTURE PLACEHOLDER (keeps grid clean) -->
+    <td width="50%" valign="top">
+      <!-- Leave this empty or use it to promote your upcoming portfolio -->
+    </td>
+  </tr>
+</table>
 ---
 
 ### ⚙️ Tools & Tech Stack
 
-**Languages & Web**
-`TypeScript` · `JavaScript (ES6+)` · `Python` · `Java` · `C` · `HTML5 / CSS3` · `REST APIs`
+**Design & UI/UX**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-**Frontend & Backend**
-`React` · `Next.js` · `Tailwind CSS` · `Electron` · `Sanity CMS` · `Node.js / Express`
+**Frontend & Mobile**
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-**Design & Accessibility**
-`Figma` · `UX Design Heuristics` · `Accessibility (A11y)` · `WCAG 2.1 Compliance`
+**Languages & Backend**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 
-**Agentic Tools & Workflows**
-`Model Context Protocol (MCP)` · `Cursor` · `AI Automations & Workflows` · `Notion` · `VS Code`
+**Environment & Agentic Tools**
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 ---
 
