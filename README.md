@@ -1,9 +1,9 @@
 
 ### 🚀 Featured Projects
 
-*   **[Rellia Health](https://github.com/Agrolax/rellia-landing-page)** – A comprehensive tech-stack revamp and platform expansion. Migrated a legacy infrastructure to a modern build utilizing **React, TypeScript, and Tailwind CSS**, and integrated **Sanity CMS** with a custom admin dashboard for dynamic content management.
-*   **[Habit Hero](https://github.com/Schleed/habit-hero)** – A gamified desktop task-management application designed to turn daily habits into an engaging experience, built using **React, Tailwind CSS, and Electron**.
-*   **[ConnectFourAI](https://github.com/Agrolax/ConnectFourAI)** – An artificial intelligence-driven implementation of the classic Connect Four game, exploring algorithmic decision-making and logic-based game states.
+*   **[Rellia Health - Marketing website](https://github.com/Agrolax/rellia-landing-page)**: React, TypeScript, and Tailwind CSS | CMS Integrated & custom admin dashboard
+*   **[Habit Hero - Gamified Task Management Application](https://github.com/Schleed/habit-hero)**: React, Tailwind CSS, and Electron
+*   **[ConnectFourAI - Adversial Depth Search Vizualization & Game](https://github.com/Agrolax/ConnectFourAI)** – Python, Typescript, Tailwind CSS | Exploring algorithmic decision-making and logic-based game states
 
 <!--
 <table border="0">
@@ -106,8 +106,8 @@ COMMENTING OUT THE PROJECTS UNTIL IMAGES ARE READY
 
 ### 🎓 Education & Experience
 *   **B.Sc. in Computer Science** @ Wilfrid Laurier University *(Minor in UX Design, Option in Leadership)*
-*   **Freelance Product Designer & Frontend Developer** – Crafting bespoke digital interfaces, design systems, and web architectures for global clients.
-*   **President** @ Bangladeshi Students' Association (BSA Laurier) – Leading campus operations, executive logistics, and community outreach.
+*   **Freelance Product Designer & Frontend Developer** – Gigital interfaces, design systems, and web architectures
+*   **President** @ Bangladeshi Students' Association (BSA Laurier) – Campus operations, leadership, and community outreach
 
 ---
 
