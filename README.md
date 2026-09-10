@@ -1,9 +1,9 @@
 
 ### 🚀 Featured Projects
 
-*   **[Rellia Health - Marketing website](https://github.com/Agrolax/rellia-landing-page)**: React, TypeScript, and Tailwind CSS | CMS Integrated & custom admin dashboard
+*   **[Rellia Health - Marketing website](https://github.com/Agrolax/rellia-landing-page)**: React, TypeScript, and Tailwind CSS | CMS Integrated & custom admin dashboard - (relliahealth.com)
 *   **[Habit Hero - Gamified Task Management Application](https://github.com/Schleed/habit-hero)**: React, Tailwind CSS, and Electron
-*   **[ConnectFourAI - Adversial Depth Search Vizualization & Game](https://github.com/Agrolax/ConnectFourAI)** – Python, Typescript, Tailwind CSS | Exploring algorithmic decision-making and logic-based game states
+*   **[ConnectFourAI - Adversial Depth Search Vizualization & Game](https://github.com/Agrolax/ConnectFourAI)** – Python, Typescript, Tailwind CSS | Exploring algorithmic decision-making and logic-based game states (Agrolax.github.io/ConnectFourAI)
 
 <!--
 <table border="0">
