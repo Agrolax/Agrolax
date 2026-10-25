@@ -33,7 +33,7 @@
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Agrolax/meridian-network"><img src="https://opengraph.githubassets.com/1/Agrolax/meridian-network" width="100%" alt="Meridian Network" /></a>
+      <a href="https://github.com/Agrolax/meridian-network"><img src="./assets/meridian-network.png" width="100%" alt="Meridian Network" /></a>
       <h3><a href="https://github.com/Agrolax/meridian-network">Meridian Network</a></h3>
       <p>A full-stack directory platform: a public, filterable member directory backed by an authenticated staff dashboard that controls what the public sees. Typed API, URL-driven filters, session auth and a test suite.</p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
