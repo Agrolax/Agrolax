@@ -1,4 +1,11 @@
 
+### About Me
+*   **B.Sc. in Computer Science** @ Wilfrid Laurier University *(Minor in UX Design, Option in Leadership)*
+*   **Freelance Product Designer & Frontend Developer** – Digital interfaces, design systems, and web architectures
+*   **President** @ Bangladeshi Students' Association (BSA Laurier) – Campus operations, leadership, and community outreach
+
+---
+
 ### 🚀 Featured Projects
 
 <table border="0">
@@ -35,8 +42,7 @@
     <td width="50%" valign="top">
       <a href="https://relliahealth.com"><img src="./assets/rellia-health.png" width="100%" alt="Rellia Health" /></a>
       <h3><a href="https://relliahealth.com">Rellia Health</a></h3>
-      <p>The marketing website for Rellia Health, a network that connects digital health founders, clinicians and health systems. I rebuilt it on a modern stack with a CMS integration and a custom admin dashboard.</p>
-      <p><a href="https://relliahealth.com">relliahealth.com</a></p>
+      <p>The marketing website for Rellia Health, a network that connects digital health founders, clinicians and health systems. | CMS integration and a custom admin dashboard.</p>
       <img src="https://img.shields.io/badge/React-20232A-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -60,12 +66,7 @@
 **Environment & Agentic Tools**
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
----
 
-### 🎓 Education & Experience
-*   **B.Sc. in Computer Science** @ Wilfrid Laurier University *(Minor in UX Design, Option in Leadership)*
-*   **Freelance Product Designer & Frontend Developer** – Digital interfaces, design systems, and web architectures
-*   **President** @ Bangladeshi Students' Association (BSA Laurier) – Campus operations, leadership, and community outreach
 
 ---
 
