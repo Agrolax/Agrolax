@@ -1,8 +1,9 @@
 
 ### About Me
-I'm a Computer Science student at Wilfrid Laurier and a freelance product designer and frontend developer. I like taking a product from the first sketch to the shipped interface: research and design systems in Figma, then the React, Next.js or React Native code behind them. Lately that has meant live websites for healthcare clients, a Fire TV app with an AI backend, and game-playing AI agents.
+I'm a Computer Science student at Wilfrid Laurier and a freelance product designer and frontend developer. 
 
-*   **B.Sc. in Computer Science** @ Wilfrid Laurier University *(Minor in UX Design, Option in Leadership)*
+*   **B.Sc. in Computer Science** @ Wilfrid Laurier University
+    *   Minor in UX Design, Option in Leadership)
 *   **Freelance Product Designer & Frontend Developer** – Digital interfaces, design systems, and web architectures
 *   **President** @ Bangladeshi Students' Association (BSA Laurier) – Campus operations, leadership, and community outreach
 
@@ -15,8 +16,7 @@ I'm a Computer Science student at Wilfrid Laurier and a freelance product design
     <td width="50%" valign="top">
       <a href="https://relliahealth.com"><img src="./assets/rellia-health.png" width="100%" alt="Rellia Health" /></a>
       <h3><a href="https://relliahealth.com">Rellia Health</a></h3>
-      <p><sub><b>Client work · Live</b></sub></p>
-      <p>The marketing website for Rellia Health, a network that connects digital health founders, clinicians and health systems. | CMS integration and a custom admin dashboard.</p>
+      <p><sub><b>Front-end, CMS, Dashboard</b></sub></p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -25,7 +25,6 @@ I'm a Computer Science student at Wilfrid Laurier and a freelance product design
       <a href="https://github.com/Agrolax/huddle-tv"><img src="https://raw.githubusercontent.com/Agrolax/huddle-tv/main/cover.png" width="100%" alt="Huddle Home" /></a>
       <h3><a href="https://github.com/Agrolax/huddle-tv">Huddle Home</a></h3>
       <p><sub><b>Personal project · First MVP, in progress</b></sub></p>
-      <p>A family home screen for Fire TV. Phones join by QR code and become the remote, a private ballot and the pens. Amazon Bedrock (Nova) picks what to watch before bedtime with real movie posters from TMDB, and game night is a quiz about your own week or a draw-and-guess round where one phone is the pen.</p>
       <img src="https://img.shields.io/badge/Fire_TV-Vega_OS-FF9900?style=flat-square" />
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -38,7 +37,6 @@ I'm a Computer Science student at Wilfrid Laurier and a freelance product design
       <a href="https://agrolax.github.io/ConnectFourAI/"><img src="https://raw.githubusercontent.com/Agrolax/ConnectFourAI/main/assets/ogimage.png" width="100%" alt="ConnectFourAI" /></a>
       <h3><a href="https://agrolax.github.io/ConnectFourAI/">ConnectFourAI</a></h3>
       <p><sub><b>Course project · CP468 Artificial Intelligence, Wilfrid Laurier</b></sub></p>
-      <p>A Connect Four engine with seedable adversarial AI agents (minimax, alpha-beta and more) and a web sandbox for watching them search and play against each other, with an evaluation report comparing the agents.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
@@ -47,7 +45,6 @@ I'm a Computer Science student at Wilfrid Laurier and a freelance product design
       <a href="https://powerofplayinc.com"><img src="./assets/power-of-play.png" width="100%" alt="Power of Play" /></a>
       <h3><a href="https://powerofplayinc.com">Power of Play</a></h3>
       <p><sub><b>Client work · Live</b></sub></p>
-      <p>The website for Power of Play, a pediatric rehabilitation company that takes a play-based approach to therapy and assessment for young children. Taken from HTML prototypes of several design directions to the production Home, About and Contact pages.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
