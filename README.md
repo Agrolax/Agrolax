@@ -57,6 +57,11 @@ I'm a Computer Science student at Wilfrid Laurier and a freelance product design
   </tr>
 </table>
 
+### 📦 Open Source
+
+*   **[react-native-tv-focus-kit](https://github.com/Agrolax/huddle-tv/tree/main/packages/tv-focus-kit)** – D-pad focus for React Native TV apps (Fire TV / Vega OS, Android TV, tvOS). A focus grid that moves predictably on uneven layouts, a focus ring and focusable cards, with the navigation rules unit-tested. `npm install react-native-tv-focus-kit` · MIT
+*   **[Huddle Home](https://github.com/Agrolax/huddle-tv)** and **[Meridian Network](https://github.com/Agrolax/meridian-network)** are MIT-licensed and open to contributions. Each has a contributing guide.
+
 ---
 
 ### ⚙️ Tools & Tech Stack
