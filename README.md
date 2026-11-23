@@ -10,12 +10,18 @@
 
 ### Focus
 
-| | |
-| --- | --- |
-| **Design** | UI / visual design, product design, UX research, design systems |
-| **Build** | React, Next.js, React Native, TypeScript, headless CMS & dashboards |
-| **AI** | Fluency & orchestration — agents, Bedrock, tooling around real products |
-| **Lead** | Founder & President, [Laurier BSA](https://laurierbsa.ca) — campus ops & community |
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-design-dark.svg" />
+    <img src="./assets/skills-design-light.svg" width="49%" alt="Design skills radar: UI/visual, product design, design systems, prototyping, UX research, motion" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-build-dark.svg" />
+    <img src="./assets/skills-build-light.svg" width="49%" alt="Build skills radar: React/Next.js, TypeScript, AI orchestration, React Native, Node/APIs, cloud and deploy" />
+  </picture>
+</p>
+
+Also: Founder & President, [Laurier BSA](https://laurierbsa.ca) — campus ops & community.
 
 ---
 
@@ -35,7 +41,7 @@ Live client and campus work first. Personal builds when they’re worth a look.
       <br /><a href="https://dribbble.com/shots/27740817-Rellia-Health-React-Headless-CMS-Internal-Dashboard">Case study on Dribbble →</a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://powerofplayinc.com"><img src="./assets/power-of-play.png" width="100%" alt="Power of Play" /></a>
+      <a href="https://powerofplayinc.com"><img src="./assets/power-of-play-landing.png" width="100%" alt="Power of Play" /></a>
       <h3><a href="https://powerofplayinc.com">Power of Play</a></h3>
       <p><sub><b>Client · Live</b> — Production Home, About, and Contact from design directions through Next.js on Netlify.</sub></p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -47,7 +53,7 @@ Live client and campus work first. Personal builds when they’re worth a look.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://laurierbsa.ca"><img src="./assets/laurier-bsa.png" width="100%" alt="Laurier BSA" /></a>
+      <a href="https://laurierbsa.ca"><img src="./assets/laurier-bsa-hero-2.png" width="100%" alt="Laurier BSA" /></a>
       <h3><a href="https://laurierbsa.ca">Laurier BSA</a></h3>
       <p><sub><b>Campus · Live</b> — Site for the Bangladeshi Students’ Association: culture, events, and getting involved on the Waterloo campus.</sub></p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -88,19 +94,6 @@ Live client and campus work first. Personal builds when they’re worth a look.
 UI, UX research, and case studies beyond the shipped sites — including DesignRepo, Hawk Hub, ClassPass heuristic evaluation, Habit Hero, and design-system work.
 
 **[dribbble.com/safdarmd →](https://dribbble.com/safdarmd)**
-
----
-
-### Open source
-
-* **[react-native-tv-focus-kit](https://github.com/Agrolax/huddle-tv/tree/main/packages/tv-focus-kit)** — D-pad focus for React Native TV (Fire TV / Vega OS, Android TV, tvOS). Predictable focus grid, focus ring, focusable cards; navigation rules unit-tested. `npm install react-native-tv-focus-kit` · MIT
-* **[Huddle Home](https://github.com/Agrolax/huddle-tv)** and **[Meridian Network](https://github.com/Agrolax/meridian-network)** — MIT, open to contributions (each has a contributing guide)
-
-<!-- After first Vorssaint PR, uncomment and fill in:
-* **[Vorssaint](https://github.com/vorssaint/vorssaint-utils)** — Contributed … to the open-source macOS menu bar toolkit
--->
-
-Exploring a contribution to **[Vorssaint](https://github.com/vorssaint/vorssaint-utils)** (open-source macOS menu bar toolkit). Nothing shipped there yet — this line will become a real credit when it does.
 
 ---
 
