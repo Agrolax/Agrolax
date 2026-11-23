@@ -1,50 +1,43 @@
+# Safdar Shukur
 
-### About Me
-I'm a Computer Science student at Wilfrid Laurier and a freelance product designer and frontend developer. 
+**Product Design & Engineering · AI Fluency & Orchestration · CS @ Laurier**
 
-*   **B.Sc. in Computer Science** @ Wilfrid Laurier University
-    *   Minor in UX Design, Option in Leadership)
-*   **Freelance Product Designer & Frontend Developer** – Digital interfaces, design systems, and web architectures
-*   **President** @ Bangladeshi Students' Association (BSA Laurier) – Campus operations, leadership, and community outreach
+4th-year Computer Science at Wilfrid Laurier (UX Design minor, Leadership option). I freelance as a product designer and frontend developer — sketch → system → shipped interface. Available for new projects.
+
+[LinkedIn](https://linkedin.com/in/safdarmd) · [Dribbble](https://dribbble.com/safdarmd) · [Email](mailto:work.safdarmd@gmail.com)
 
 ---
 
-### 🚀 Featured Projects
+### Focus
+
+| | |
+| --- | --- |
+| **Design** | UI / visual design, product design, UX research, design systems |
+| **Build** | React, Next.js, React Native, TypeScript, headless CMS & dashboards |
+| **AI** | Fluency & orchestration — agents, Bedrock, tooling around real products |
+| **Lead** | Founder & President, [Laurier BSA](https://laurierbsa.ca) — campus ops & community |
+
+---
+
+### Selected work
+
+Live client and campus work first. Personal builds when they’re worth a look.
 
 <table border="0">
   <tr>
     <td width="50%" valign="top">
-      <a href="https://relliahealth.com"><img src="./assets/rellia-health.png" width="100%" alt="Rellia Health" /></a>
-      <h3><a href="https://relliahealth.com">Rellia Health</a></h3>
-      <p><sub><b>Front-end, CMS, Dashboard</b></sub></p>
+      <a href="https://www.relliahealth.com"><img src="./assets/rellia-health.png" width="100%" alt="Rellia Health" /></a>
+      <h3><a href="https://www.relliahealth.com">Rellia Health</a></h3>
+      <p><sub><b>Client · Live</b> — Marketing site, headless CMS, and internal dashboard for a digital-health network connecting founders, clinicians, and health systems.</sub></p>
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Agrolax/huddle-tv"><img src="https://raw.githubusercontent.com/Agrolax/huddle-tv/main/cover.png" width="100%" alt="Huddle Home" /></a>
-      <h3><a href="https://github.com/Agrolax/huddle-tv">Huddle Home</a></h3>
-      <p><sub><b>Personal project · First MVP, in progress</b></sub></p>
-      <img src="https://img.shields.io/badge/Fire_TV-Vega_OS-FF9900?style=flat-square" />
-      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square" />
-      <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square" />
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://agrolax.github.io/ConnectFourAI/"><img src="https://raw.githubusercontent.com/Agrolax/ConnectFourAI/main/assets/ogimage.png" width="100%" alt="ConnectFourAI" /></a>
-      <h3><a href="https://agrolax.github.io/ConnectFourAI/">ConnectFourAI</a></h3>
-      <p><sub><b>Course project · CP468 Artificial Intelligence, Wilfrid Laurier</b></sub></p>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <br /><a href="https://dribbble.com/shots/27740817-Rellia-Health-React-Headless-CMS-Internal-Dashboard">Case study on Dribbble →</a>
     </td>
     <td width="50%" valign="top">
       <a href="https://powerofplayinc.com"><img src="./assets/power-of-play.png" width="100%" alt="Power of Play" /></a>
       <h3><a href="https://powerofplayinc.com">Power of Play</a></h3>
-      <p><sub><b>Client work · Live</b></sub></p>
+      <p><sub><b>Client · Live</b> — Production Home, About, and Contact from design directions through Next.js on Netlify.</sub></p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -54,47 +47,84 @@ I'm a Computer Science student at Wilfrid Laurier and a freelance product design
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://laurierbsa.pages.dev"><img src="./assets/laurier-bsa.png" width="100%" alt="Laurier BSA" /></a>
-      <h3><a href="https://laurierbsa.pages.dev">Laurier BSA</a></h3>
-      <p><sub><b>Bangladeshi Students' Association website · Live</b></sub></p>
+      <a href="https://laurierbsa.ca"><img src="./assets/laurier-bsa.png" width="100%" alt="Laurier BSA" /></a>
+      <h3><a href="https://laurierbsa.ca">Laurier BSA</a></h3>
+      <p><sub><b>Campus · Live</b> — Site for the Bangladeshi Students’ Association: culture, events, and getting involved on the Waterloo campus.</sub></p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
       <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white" />
     </td>
+    <td width="50%" valign="top">
+      <a href="https://agrolax.github.io/ConnectFourAI/"><img src="https://raw.githubusercontent.com/Agrolax/ConnectFourAI/main/assets/ogimage.png" width="100%" alt="ConnectFourAI" /></a>
+      <h3><a href="https://agrolax.github.io/ConnectFourAI/">ConnectFourAI</a></h3>
+      <p><sub><b>Course · Live</b> — Adversarial agents (minimax, alpha-beta, more) with a web sandbox to watch them search and play. CP468 AI @ Laurier.</sub></p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+      <br /><a href="https://github.com/Agrolax/ConnectFourAI">Repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Agrolax/huddle-tv"><img src="https://raw.githubusercontent.com/Agrolax/huddle-tv/main/cover.png" width="100%" alt="Huddle Home" /></a>
+      <h3><a href="https://github.com/Agrolax/huddle-tv">Huddle Home</a></h3>
+      <p><sub><b>Personal · MVP in progress</b> — Family home screen for Fire TV (Vega OS): phones join by QR, Bedrock picks what to watch, secret votes and game night.</sub></p>
+      <img src="https://img.shields.io/badge/Fire_TV-Vega_OS-FF9900?style=flat-square" />
+      <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square" />
+      <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square" />
+    </td>
     <td width="50%" valign="top"></td>
   </tr>
 </table>
 
-### 📦 Open Source
+---
 
-*   **[react-native-tv-focus-kit](https://github.com/Agrolax/huddle-tv/tree/main/packages/tv-focus-kit)** – D-pad focus for React Native TV apps (Fire TV / Vega OS, Android TV, tvOS). A focus grid that moves predictably on uneven layouts, a focus ring and focusable cards, with the navigation rules unit-tested. `npm install react-native-tv-focus-kit` · MIT
-*   **[Huddle Home](https://github.com/Agrolax/huddle-tv)** and **[Meridian Network](https://github.com/Agrolax/meridian-network)** are MIT-licensed and open to contributions. Each has a contributing guide.
+### Design on Dribbble
+
+UI, UX research, and case studies beyond the shipped sites — including DesignRepo, Hawk Hub, ClassPass heuristic evaluation, Habit Hero, and design-system work.
+
+**[dribbble.com/safdarmd →](https://dribbble.com/safdarmd)**
 
 ---
 
-### ⚙️ Tools & Tech Stack
+### Open source
 
-**Design & UI/UX**
+* **[react-native-tv-focus-kit](https://github.com/Agrolax/huddle-tv/tree/main/packages/tv-focus-kit)** — D-pad focus for React Native TV (Fire TV / Vega OS, Android TV, tvOS). Predictable focus grid, focus ring, focusable cards; navigation rules unit-tested. `npm install react-native-tv-focus-kit` · MIT
+* **[Huddle Home](https://github.com/Agrolax/huddle-tv)** and **[Meridian Network](https://github.com/Agrolax/meridian-network)** — MIT, open to contributions (each has a contributing guide)
+
+<!-- After first Vorssaint PR, uncomment and fill in:
+* **[Vorssaint](https://github.com/vorssaint/vorssaint-utils)** — Contributed … to the open-source macOS menu bar toolkit
+-->
+
+Exploring a contribution to **[Vorssaint](https://github.com/vorssaint/vorssaint-utils)** (open-source macOS menu bar toolkit). Nothing shipped there yet — this line will become a real credit when it does.
+
+---
+
+### Stack
+
+**Design**  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 
-**Frontend & Mobile**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+**Frontend & mobile**  
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Languages & Backend**
+**Languages & backend**  
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-**Cloud & AI**
+**Cloud & AI**  
 ![Amazon Bedrock](https://img.shields.io/badge/Amazon_Bedrock-232F3E?style=flat-square) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white) ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=github&logoColor=white)
 
-**Environment & Agentic Tools**
+**Environment**  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 
 ---
 
-### 📫 Connect with Me
+### Connect
 
-[LinkedIn](https://linkedin.com/in/safdarmd) · [Dribbble Portfolio](https://dribbble.com/safdarmd) · [Email](mailto:work.safdarmd@gmail.com)
+Open to freelance product design and frontend work.
 
-✨ *Personal website & full portfolio coming soon!*
+[LinkedIn](https://linkedin.com/in/safdarmd) · [Dribbble](https://dribbble.com/safdarmd) · [Email](mailto:work.safdarmd@gmail.com)
