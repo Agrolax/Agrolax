@@ -2,7 +2,7 @@
 
 **Product Design & Engineering · AI Fluency & Orchestration · CS @ Laurier**
 
-4th-year Computer Science at Wilfrid Laurier (UX Design minor, Leadership option). I freelance as a product designer and frontend developer — sketch → system → shipped interface. Available for new projects.
+4th-year Computer Science at Wilfrid Laurier (UX Design minor, Leadership option). I freelance as a product designer and frontend developer. Available for new projects.
 
 [LinkedIn](https://linkedin.com/in/safdarmd) · [Dribbble](https://dribbble.com/safdarmd) · [Email](mailto:work.safdarmd@gmail.com)
 
@@ -21,13 +21,11 @@
   </picture>
 </p>
 
-Also: Founder & President, [Laurier BSA](https://laurierbsa.ca) — campus ops & community.
 
 ---
 
 ### Selected work
 
-Live client and campus work first. Personal builds when they’re worth a look.
 
 <table border="0">
   <tr>
@@ -76,7 +74,7 @@ Live client and campus work first. Personal builds when they’re worth a look.
     <td width="50%" valign="top">
       <a href="https://github.com/Agrolax/huddle-tv"><img src="https://raw.githubusercontent.com/Agrolax/huddle-tv/main/cover.png" width="100%" alt="Huddle Home" /></a>
       <h3><a href="https://github.com/Agrolax/huddle-tv">Huddle Home</a></h3>
-      <p><sub><b>Personal · MVP in progress</b> — Family home screen for Fire TV (Vega OS): phones join by QR, Bedrock picks what to watch, secret votes and game night.</sub></p>
+      <p><sub><b>Personal · MVP in progress</b> — Family home screen for Fire TV (Vega OS) </sub></p>
       <img src="https://img.shields.io/badge/Fire_TV-Vega_OS-FF9900?style=flat-square" />
       <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
       <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -91,7 +89,7 @@ Live client and campus work first. Personal builds when they’re worth a look.
 
 ### Design on Dribbble
 
-UI, UX research, and case studies beyond the shipped sites — including DesignRepo, Hawk Hub, ClassPass heuristic evaluation, Habit Hero, and design-system work.
+UI, UX research, and case studies 
 
 **[dribbble.com/safdarmd →](https://dribbble.com/safdarmd)**
 
