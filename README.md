@@ -2,7 +2,7 @@
 
 **Product Design & Engineering · AI Fluency & Orchestration · CS @ Laurier**
 
-4th-year Computer Science at Wilfrid Laurier (UX Design minor, Leadership option). I freelance as a product designer and frontend developer. Available for new projects.
+4th-year Computer Science at Wilfrid Laurier (UX Design minor, Leadership option). Freelance experience as a product designer and frontend developer. Available for new projects.
 
 [LinkedIn](https://linkedin.com/in/safdarmd) · [Dribbble](https://dribbble.com/safdarmd) · [Email](mailto:work.safdarmd@gmail.com)
 
